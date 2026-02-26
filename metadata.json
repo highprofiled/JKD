@@ -1,0 +1,5 @@
+{
+  "name": "Audio RMS Booster",
+  "description": "Increase the volume (RMS) of your audio files by a custom dB amount.",
+  "requestFramePermissions": []
+}
